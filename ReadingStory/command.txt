@@ -1,0 +1,3 @@
+open_jtalk -m /usr/local/share/hts_voice/mei/mei_normal.htsvoice -ow ./out.wav -x /usr/local/share/open_jtalk/open_jtalk_dic_utf_8-1.10 ./test.txt
+https://kledgeb.blogspot.com/2014/05/ubuntu-open-jtalk-2-openjtalk.html
+くわしくはここに
