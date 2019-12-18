@@ -1,0 +1,177 @@
+[
+  {
+    "title": "桃太郎",
+    "files": [
+      "momotaro_2.txt"
+    ],
+    "dir": "MOMOTARO"
+  },
+  {
+    "title": "一寸法師",
+    "files": [
+      "issunboshi_1.txt"
+    ],
+    "dir": "ISSUN_BOSHI"
+  },
+  {
+    "title": "金太郎",
+    "files": [
+      "kintaro_1.txt"
+    ],
+    "dir": "KINTARO"
+  },
+  {
+    "title": "浦島太郎",
+    "files": [
+      "urashimataro_1.txt"
+    ],
+    "dir": "URASHIMA"
+  },
+  {
+    "title": "青髭",
+    "files": [
+      "aohige_1.txt"
+    ],
+    "dir": "AOHIGE"
+  },
+  {
+    "title": "花咲か爺さん",
+    "files": [
+      "hanasakajijii_1.txt"
+    ],
+    "dir": "HANASAKAJIJII"
+  },
+  {
+    "title": "ヘンゼルとグレーテル",
+    "files": [
+      "hansel_und_gretel_1.txt"
+    ],
+    "dir": "HANZEL_UND_GRETEL"
+  },
+  {
+    "title": "カチカチ山のたぬき",
+    "files": [
+      "kachikachi_yama_1.txt"
+    ],
+    "dir": "KACHIKACHI_YAMA"
+  },
+  {
+    "title": "こぶとり爺さん",
+    "files": [
+      "kobutori_1.txt"
+    ],
+    "dir": "KOBUTORI"
+  },
+  {
+    "title": "ブレーメンの音楽隊",
+    "files": [
+      "bremer_1.txt"
+    ],
+    "dir": "BREMER"
+  },
+  {
+    "title": "眠る森のお姫様",
+    "files": [
+      "nemurumorino_ohimesama_1.txt"
+    ],
+    "dir": "NEMURUMORI_NO_OHIMESAMA"
+  },
+  {
+    "title": "姨捨山",
+    "files": [
+      "obasuteyama_1.txt"
+    ],
+    "dir": "OBASUTEYAMA"
+  },
+  {
+    "title": "赤ずきんちゃん",
+    "files": [
+      "akazukin_chan_1.txt"
+    ],
+    "dir": "AKAZUKIN_CHAN"
+  },
+  {
+    "title": "さるかに合戦",
+    "files": [
+      "sarukani_kassen_1.txt"
+    ],
+    "dir": "SARUKANI"
+  },
+  {
+    "title": "舌切り雀",
+    "files": [
+      "shitakiri_suzume_1.txt"
+    ],
+    "dir": "SHITAKIRI_SUZUME"
+  },
+  {
+    "title": "タニシの出世",
+    "files": [
+      "tanishino_shusse_1.txt"
+    ],
+    "dir": "TANISHI"
+  },
+  {
+    "title": "瓜子姫",
+    "files": [
+      "uriko_hime_1.txt"
+    ],
+    "dir": "URIKO_HIME"
+  },
+  {
+    "title": "牛若と弁慶",
+    "files": [
+      "ushiwakato_benkei_1.txt"
+    ],
+    "dir": "USHIWAKA_TO_BENKEI"
+  },
+  {
+    "title": "オオカミと７匹の子ヤギ",
+    "files": [
+      "wolf_und_geisslein_1.txt"
+    ],
+    "dir": "WOLF_UND_GEISSLEIN"
+  },
+  {
+    "title": "和尚さんと小僧",
+    "files": [
+      "oshosanto_kozo_1.txt"
+    ],
+    "dir": "OSHOSAN_TO_KOZOU"
+  },
+  {
+    "title": "裸の王様",
+    "files": [
+      "hadaka_no_osama_1.txt"
+    ],
+    "dir": "HADAKA_NO_KING"
+  },
+  {
+    "title": "山姥",
+    "files": [
+      "yamaubano_hanashi_1.txt"
+    ],
+    "dir": "YAMANBA"
+  },
+  {
+    "title": "シンデレラ",
+    "files": [
+      "cendrillon_1.txt"
+    ],
+    "dir": "CHINDERELLA"
+  },
+  {
+    "title": "３匹の子豚",
+    "files": [
+      "3hiki_no_kobuta_1.txt"
+    ],
+    "dir": "SANHIKI_NO_KOBUTA"
+  },
+  {
+    "title": "かぐや姫",
+    "files": [
+      "kaguyahime_1.txt"
+    ],
+    "dir": "KAGUYA_HIME"
+  }    
+]
